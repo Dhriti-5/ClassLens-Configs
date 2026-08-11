@@ -4,5 +4,5 @@
   "maintenance_mode": false,
   "maintenance_message": "ClassLens is undergoing upgrades. We will be back online shortly. Thank you for your patience!",
   "update_url": "https://play.google.com/store/apps/details?id=com.msubaroda.classlens",
-  "active_server_mode": "all"
+  "active_server_mode": "offline"
 }
